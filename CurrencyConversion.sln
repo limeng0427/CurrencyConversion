@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unleashed.TechnicalTest.CurrencyConversion", "CurrencyConversion\Unleashed.TechnicalTest.CurrencyConversion.csproj", "{2C89A10F-73A8-4192-944C-34A138F9A916}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unleashed.TechnicalTest.Utilities", "Unleashed.TechnicalTest.Utilities\Unleashed.TechnicalTest.Utilities.csproj", "{2C731AC2-876B-488A-A74C-83220EDBA1D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unleashed.TechnicalTest.Tests", "Unleashed.TechnicalTest.Tests\Unleashed.TechnicalTest.Tests.csproj", "{79742B52-1400-49ED-B2B5-27576E1025CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unleashed.TechnicalTest.Data", "Unleashed.TechnicalTest.Data\Unleashed.TechnicalTest.Data.csproj", "{61E79F85-A3B9-46B5-9ED7-84046B906F8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unleashed.TechnicalTest.Service", "Unleashed.TechnicalTest.Service\Unleashed.TechnicalTest.Service.csproj", "{50B000A6-5C40-411F-B5D9-03D7643F858A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{38675118-8B9C-42CE-B0B6-8830C5337AD8}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C89A10F-73A8-4192-944C-34A138F9A916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C89A10F-73A8-4192-944C-34A138F9A916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C89A10F-73A8-4192-944C-34A138F9A916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C89A10F-73A8-4192-944C-34A138F9A916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C731AC2-876B-488A-A74C-83220EDBA1D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C731AC2-876B-488A-A74C-83220EDBA1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C731AC2-876B-488A-A74C-83220EDBA1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C731AC2-876B-488A-A74C-83220EDBA1D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79742B52-1400-49ED-B2B5-27576E1025CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79742B52-1400-49ED-B2B5-27576E1025CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79742B52-1400-49ED-B2B5-27576E1025CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79742B52-1400-49ED-B2B5-27576E1025CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E79F85-A3B9-46B5-9ED7-84046B906F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E79F85-A3B9-46B5-9ED7-84046B906F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E79F85-A3B9-46B5-9ED7-84046B906F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E79F85-A3B9-46B5-9ED7-84046B906F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B000A6-5C40-411F-B5D9-03D7643F858A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B000A6-5C40-411F-B5D9-03D7643F858A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B000A6-5C40-411F-B5D9-03D7643F858A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B000A6-5C40-411F-B5D9-03D7643F858A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89C61F33-A53D-42F4-B9F1-0075A1A6A8FB}
+	EndGlobalSection
+EndGlobal
